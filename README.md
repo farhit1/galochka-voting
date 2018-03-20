@@ -13,7 +13,7 @@ http://farhit.pythonanywhere.com
 ![Скриншот 2](https://github.com/farhit1/galochka-voting/blob/master/screenshots/2.png)
 ![Скриншот 3](https://github.com/farhit1/galochka-voting/blob/master/screenshots/3.png)
 
-###### *К сожалению, код слишком страшный, чтобы его выкладывать.*
+###### *К сожалению, код слишком страшный.*
 `Python` `HTML/CSS/JS`
 
 http://farhit.pythonanywhere.com
