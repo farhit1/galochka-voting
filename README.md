@@ -1,3 +1,5 @@
+##### **NO CODE IN THIS REPO**
+
 # Галочка 
 
 Онлайн-голосование на выборах председателя школьного совета самоуправления в Республике Татарстан.
@@ -13,10 +15,4 @@ http://farhit.pythonanywhere.com
 ![Скриншот 2](https://github.com/farhit1/galochka-voting/blob/master/screenshots/2.png)
 ![Скриншот 3](https://github.com/farhit1/galochka-voting/blob/master/screenshots/3.png)
 
-###### *К сожалению, код слишком страшный.*
-`Python` `HTML/CSS/JS`
-
 http://farhit.pythonanywhere.com
-
-### TODO
-- [ ] Сделать код менее страшным
